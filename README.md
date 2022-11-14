@@ -1,4 +1,4 @@
-# "C# Interfaces" Resources
+# C# Interfaces Resources
 
 This repository contains sample code and additional resources for the "C# Interfaces" course by Jeremy Clark on Pluralsight. The examples in the course use .NET 6.0  
 
@@ -105,7 +105,7 @@ Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration:
 ```
 
 
-## Articles & Links
+## Folders and Program
 
 ### 1 - Course Overview
 
