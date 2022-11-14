@@ -1,0 +1,12 @@
+/Users/coppe/Interfaces/FutureProofing/Common/bin/Debug/net5.0/Common.deps.json
+/Users/coppe/Interfaces/FutureProofing/Common/bin/Debug/net5.0/Common.dll
+/Users/coppe/Interfaces/FutureProofing/Common/bin/Debug/net5.0/Common.pdb
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.dll
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/refint/Common.dll
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/Common.pdb
+/Users/coppe/Interfaces/FutureProofing/Common/obj/Debug/net5.0/ref/Common.dll

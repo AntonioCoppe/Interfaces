@@ -1,0 +1,5 @@
+/Users/coppe/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/Users/coppe/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/Users/coppe/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/Users/coppe/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache

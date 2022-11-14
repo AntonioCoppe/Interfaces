@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyxOiR+onNlhmF7Qt7dodhrEVikdMJy/Oibm9rpyPXNm7kopn7lzdrxl5j3vtswLARASIHYHlbfNkLiVqLiF6A==",
+  "success": true,
+  "projectFilePath": "/Users/coppe/Interfaces/Polygons/Polygons.Library/Polygons.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/coppe/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/coppe/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

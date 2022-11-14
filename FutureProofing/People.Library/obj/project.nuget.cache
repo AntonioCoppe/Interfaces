@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c77nfwImM4ESwzde8U8vMDWkk8eAOYEghaMLZzm7UjoBkV1YwguZPB8dOse7pE/Hw4fh4SJWsl5XtkB09XTkQg==",
+  "success": true,
+  "projectFilePath": "/Users/coppe/Interfaces/FutureProofing/People.Library/People.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/coppe/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/coppe/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
