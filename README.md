@@ -10,7 +10,7 @@ The code samples are in folders starting with the environment (net50), followed 
 
 The code samples can be followed using Visual Studio (Windows) or Visual Studio Code (Windows, Linux, macOS).
 
-**.NET 6.0 - development tool options**  
+***.NET 6.0 - development tool options***
 
 * Visual Studio 2022 (Community Edition)  
 * Visual Studio Code  
@@ -26,7 +26,7 @@ Your default browser will automatically open to <http://localhost:5000> (the loc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Note: If you get the following error:*
 
-```
+```bash
 'No connection could be made because the target machine actively refused it. [::ffff:127.0.0.1]:9874 (localhost:9874)'
 ```
 
@@ -48,7 +48,7 @@ For the projects that have a "People.Service" folder, use the following steps to
 2. Type "dotnet run". (This will rebuild the project if necessary.)
 3. The service should start and show the following info:
 
-```
+```bash
 info: Microsoft.Hosting.Lifetime[0]
       Now listening on: http://localhost:9874
 info: Microsoft.Hosting.Lifetime[0]
@@ -70,7 +70,7 @@ To run the web application (PeopleViewer), use the following steps:
 2. Type "dotnet run". (This will rebuild the project if necessary.)
 3. The web application should start and show the following info:
 
-```
+```bash
 info: Microsoft.Hosting.Lifetime[0]
       Now listening on: http://localhost:5000
 info: Microsoft.Hosting.Lifetime[0]
@@ -93,7 +93,7 @@ One of the samples includes unit testing. To run unit tests from the terminal, u
 2. Type "dotnet test". (This will rebuild the project if necessary.)
 3. The tests will run and the result will be similar to the following:
 
-```
+```bash
 Test run for ...\PeopleViewer.Test.dll (.NETCoreApp,Version=v5.0)
 Microsoft (R) Test Execution Command Line Tool Version 16.9.4
 Copyright (c) Microsoft Corporation.  All rights reserved.
@@ -103,7 +103,6 @@ A total of 1 test files matched the specified pattern.
 
 Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 60 ms - PeopleViewer.Test.dll (net5.0)
 ```
-
 
 ## Folders and Program
 
